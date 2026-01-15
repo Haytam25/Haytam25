@@ -1,15 +1,25 @@
 ### Hi there 👋
 
 <!--
-**Haytam25/Haytam25** is a My ✨ _special_ ✨ repository 
-                       
-                       Welcome
+# Hi, I'm Haytam 👋
 
-- 🔭 I’m currently working on Being the best network engineer 
-- 🌱 I’m currently learning C++ and Databases
-- 🤔 I’m looking for help with my path and some ressources to deppen my Knowledge
-- 💬 Ask me about my passion and how i got into it
-- ⚡ Fun fact: The Black panther is accually sick,that's where he got his color
+🎓 Computer Science Engineering student (Network Engineering)
+🔐 Interested in Cybersecurity, IT Systems & Networking
+📍 Based in Hungary
+
+## 🔧 Skills
+- Windows & Linux Administration
+- Networking fundamentals
+- C#, Python
+- Basic cybersecurity practices
+
+## 📂 What you'll find here
+This GitHub contains:
+- University projects
+- Cybersecurity learning labs
+- Networking & system administration notes
+
+🚀 Currently building hands-on experience for an IT / cybersecurity internship.
                                               See you
   
                                                   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⣋⣭⣭⣍⡙⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
